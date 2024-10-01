@@ -1,6 +1,6 @@
 # DVR Video Player Simulator
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Developed by:** AyaVision & [LearnComputerVision يلا نتعلم](https://www.youtube.com/@LearnComputerVision)  
 **Email:** [contact us](mailto:ayavision25@gmail.com)
 
@@ -14,7 +14,7 @@ The DVR Video Player Simulator replicates the functionalities of a traditional D
 - **Pause:** Temporarily pause video playback.
 - **Stop:** Stop the videos and reset to the first frame.
 - **Keep Aspect Ratio:** Toggle aspect ratio preservation for each video feed.
-- **Timeline Slider:** Navigate through the video by sliding along the timeline.
-- **Context Menu:** Easily switch between different grid layouts via a right-click context menu.
+- **Timeline Slider:** Navigate the video by sliding along the timeline.
+- **Context Menu:** Easily switch between grid layouts via a right-click context menu.
 
 The simulator is designed to provide a responsive layout with controls like play, pause, stop, and a timeline slider. It supports multiple video formats (MP4, AVI, and more).
